@@ -1,0 +1,2 @@
+# BeeManageSystem
+A class design
